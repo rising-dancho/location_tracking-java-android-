@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Tracker</string>
+    <string name="more_info">Information</string>
+    <string name="copy"> Copy </string>
+
+
+        <string name="paragraph_aeroplane_mode">
+        <b> - Location tracking can be blocked by turning on \"aeroplane mode.\"</b>
+        </string>
+
+        <string name="paragraph_fine_location">
+        <b> - This app uses the android permission: \"android.permission.ACCESS_FINE_LOCATION\" – Allows the API to determine as precise a
+            location as possible from the available location providers,
+            including the Global Positioning System (GPS) as well as WiFi and mobile cell data.</b>
+        </string>
+
+        <string name="paragraph_functions">
+        <b> - This app uses mobile data to track your coordinates. And utilizes wifi tp provide a fairly accurate address.</b>
+        </string>
+
+</resources>
